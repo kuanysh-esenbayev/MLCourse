@@ -1,0 +1,9 @@
+migrations/
+static/
+templates/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+venv/*
+development.py
